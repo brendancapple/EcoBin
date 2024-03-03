@@ -1,4 +1,4 @@
-#EcoBin
+# EcoBin
 
 ## Inspiration
 A close friend broke their extension cord, and did not know how to properly dispose of electronics. This sparked a manhunt through blogs and youtube videos on how to get rid of this item. We thought, why isn’t there one place where you could find how to dispose, reuse and choose more sustainably? Here EcoBin was born.
